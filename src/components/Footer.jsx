@@ -9,38 +9,38 @@ import logo from '../assets/images/Logo.png'
 const footerAboutLinks = [
     {
         display: "Giới thiệu",
-        path: "/about"
+        path: "/contact"
     },
     {
         display: "Liên hệ",
-        path: "/about"
+        path: "/contact"
     },
     {
         display: "Tuyển dụng",
-        path: "/about"
+        path: "/contact"
     },
     {
         display: "Tin tức",
-        path: "/about"
+        path: "/contact"
     },
     {
         display: "Hệ thống cửa hàng",
-        path: "/about"
+        path: "/contact"
     }
 ]
 
 const footerCustomerLinks = [
     {
         display: "Chính sách đổi trả",
-        path: "/about"
+        path: "/contact"
     },
     {
         display: "Chính sách bảo hành",
-        path: "/about"
+        path: "/contact"
     },
     {
         display: "Chính sách hoàn tiền",
-        path: "/about"
+        path: "/contact"
     }
 ]
 const Footer = () => {
